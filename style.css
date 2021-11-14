@@ -1,0 +1,14 @@
+.navlinks:nth-child(1){
+    font-style: italic;
+}
+.random h1{
+    text-align: center;
+    
+}
+*{
+    background-color: cornsilk;
+}
+button{
+    
+    background-color: darkgreen;
+}
